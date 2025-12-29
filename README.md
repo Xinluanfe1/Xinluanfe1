@@ -1,4 +1,6 @@
 ## Hi there 👋
+![微信图片_20251229094436_31_150](https://github.com/user-attachments/assets/e11d9683-32ac-4f45-a0f5-8ff9fe32fe12)
+
 
 <!--
 **Xinluanfe1/Xinluanfe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
